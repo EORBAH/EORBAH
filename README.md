@@ -84,8 +84,6 @@ Développeur logiciel basé en **Guinée 🇬🇳**, je maîtrise le **fullstack
 | Projet | Description | Stack |
 |---|---|---|
 | **[EorbahAPI](https://github.com/EORBAH/EorbahAPI)** | Framework PHP pour construire des APIs de façon structurée et rapide | PHP |
-| **[Projet 2](https://github.com/EORBAH/PROJET2)** | Courte description | Rust / Tauri |
-| **[Projet 3](https://github.com/EORBAH/PROJET3)** | Courte description | Node.js / TypeScript |
 
 ---
 
