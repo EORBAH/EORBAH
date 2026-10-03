@@ -127,8 +127,6 @@ Développeur logiciel basé en **Guinée 🇬🇳**, je maîtrise le **fullstack
 Ouvert aux **collaborations**, **missions freelance** et **projets open source**.
 
 - <img src="https://api.iconify.design/lucide/mail.svg?color=%230e75b6" width="18" height="18" align="center" /> **Email :** eor.bah545@gmail.com
-- <img src="https://api.iconify.design/lucide/linkedin.svg?color=%230e75b6" width="18" height="18" align="center" /> **LinkedIn :** [linkedin.com/in/eor_bah545](https://linkedin.com/in/eor_bah545)
-
 <!--
 **EORBAH/EORBAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
