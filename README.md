@@ -89,7 +89,8 @@ Développeur logiciel basé en **Guinée 🇬🇳**, je maîtrise le **fullstack
 | **[30 Days of Python on Termux](https://github.com/EORBAH/30-Days-of-Python-on-Termux)** | Apprendre python sut Termux sans ordinateur | Python |
 | **[Svinx-asyncio](https://github.com/svinx-org/asyncio)** | Framework PHP implementant l'async await grace au fibers en php| PHP |
 | **[Svinx-console](https://github.com/svinx-org/console)** | mini Framework PHP conçu pour les cli dans le terminal avec php inspirer directement de commander.js | PHP |
-| **[EorbahAI-SDK](https://github.com/svinx-org/asyncio)** | un sdk php qui permet le deployement d'IA avec differents providers (OpenAI, Mistral, xAI, etc..) avec support des tools (search, bash execution etc..) et Agents| PHP |
+| **[EorbahAI-SDK](https://github.com/EORBAH/ai-sdk)** | un sdk php qui permet le deployement d'IA avec differents providers (OpenAI, Mistral, xAI, etc..) avec support des tools (search, bash execution etc..) et Agents| PHP V-Beta |
+| **[Payments-sdk](https://github.com/EORBAH/payments-sdk)** | Bibliothèque PHP unifiée pour encapsuler plusieurs fournisseurs de paiement : PayPal, Stripe, Visa Direct, Orange Money (Guinée) et PayCard (Guinée). - V-Beta| PHP |
 ---
 
 ## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%230e75b6" width="28" height="28" align="center" /> Statistiques GitHub
