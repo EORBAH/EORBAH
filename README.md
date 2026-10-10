@@ -87,6 +87,7 @@ Développeur logiciel basé en **Guinée 🇬🇳**, je maîtrise le **fullstack
 | **[Telegram-Bot](https://github.com/EORBAH/Telegram-Bot)** | Framework PHP pour intereagir avec l'api bot de telegram | PHP |
 | **[Javascript tutoral](https://github.com/EORBAH/JavaScript-Tutorial)** | Apprendre les bases du javascript | javascript |
 | **[30 Day](https://github.com/EORBAH/30-Days-of-Python-on-Termux)** | Apprendre python sut Termux sans ordinateur | Python |
+| **[Svinx-asyncio](https://github.com/svinx-org/asyncio)** | Framework PHP implementant l'async await grace au fibers en php| PHP |
 ---
 
 ## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%230e75b6" width="28" height="28" align="center" /> Statistiques GitHub
