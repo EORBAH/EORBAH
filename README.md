@@ -86,7 +86,7 @@ Développeur logiciel basé en **Guinée 🇬🇳**, je maîtrise le **fullstack
 | **[EorbahAPI](https://github.com/EORBAH/EorbahAPI)** | Framework PHP pour construire des APIs de façon structurée et rapide | PHP |
 | **[Telegram-Bot](https://github.com/EORBAH/Telegram-Bot)** | Framework PHP pour intereagir avec l'api bot de telegram | PHP |
 | **[Javascript tutoral](https://github.com/EORBAH/JavaScript-Tutorial)** | Apprendre les bases du javascript | javascript |
-| **[30 Day](https://github.com/EORBAH/30-Days-of-Python-on-Termux)** | Apprendre python sut Termux sans ordinateur | Python |
+| **[30 Days of Python on Termux](https://github.com/EORBAH/30-Days-of-Python-on-Termux)** | Apprendre python sut Termux sans ordinateur | Python |
 | **[Svinx-asyncio](https://github.com/svinx-org/asyncio)** | Framework PHP implementant l'async await grace au fibers en php| PHP |
 | **[Svinx-console](https://github.com/svinx-org/console)** | mini Framework PHP conçu pour les cli dans le terminal avec php inspirer directement de commander.js | PHP |
 | **[EorbahAI-SDK](https://github.com/svinx-org/asyncio)** | un sdk php qui permet le deployement d'IA avec differents providers (OpenAI, Mistral, xAI, etc..) avec support des tools (search, bash execution etc..) et Agents| PHP |
