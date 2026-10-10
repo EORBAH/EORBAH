@@ -64,16 +64,16 @@ Développeur logiciel basé en **Guinée 🇬🇳**, je maîtrise le **fullstack
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+![Makefile](https://img.shields.io/badge/Makefile-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
 ## <img src="https://api.iconify.design/lucide/target.svg?color=%230e75b6" width="28" height="28" align="center" /> Domaines d'expertise
 
 | Domaine | Compétences |
 |---|---|
-| **Développement fullstack** | APIs REST, applications web, back-end Node.js / PHP / Python, front-end JS/TS (Vite + React etc) |
-| **Applications multiplateformes** | Web, desktop et mobile avec Tauri (Rust + web), CLI (terminal) |
-| **Conception de frameworks** | Architecture, routage, outillage, EorbahAPI (PHP) |
+| **Développement fullstack** | APIs REST, applications web, back-end Node.js / PHP / Python, front-end JS/TS - TSX/JSX (Vite + React etc) |
+| **Applications multiplateformes** | Web, desktop et mobile avec Tauri (Rust + web) ou cordova, CLI (terminal) |
+| **Conception de frameworks** | Architecture, routage, outillage, EorbahAPI (PHP), Telegram-bot (PHP) |
 | **DevOps & CI/CD** | Git, GitHub Flow, GitHub Actions, workflows, automatisation, Docker, Nginx |
 | **Cloud & infrastructure** | Oracle Cloud, FastAPI Cloud, Vercel, Cloudflare (DNS, sites statiques, R2 Storage) |
 
@@ -84,7 +84,7 @@ Développeur logiciel basé en **Guinée 🇬🇳**, je maîtrise le **fullstack
 | Projet | Description | Stack |
 |---|---|---|
 | **[EorbahAPI](https://github.com/EORBAH/EorbahAPI)** | Framework PHP pour construire des APIs de façon structurée et rapide | PHP |
-
+| **[Telegram-Bot](https://github.com/EORBAH/Telegram-bot)** | Framework PHP pour intereagir avec l'api bot de telegram | PHP |
 ---
 
 ## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%230e75b6" width="28" height="28" align="center" /> Statistiques GitHub
