@@ -84,7 +84,9 @@ Développeur logiciel basé en **Guinée 🇬🇳**, je maîtrise le **fullstack
 | Projet | Description | Stack |
 |---|---|---|
 | **[EorbahAPI](https://github.com/EORBAH/EorbahAPI)** | Framework PHP pour construire des APIs de façon structurée et rapide | PHP |
-| **[Telegram-Bot](https://github.com/EORBAH/Telegram-bot)** | Framework PHP pour intereagir avec l'api bot de telegram | PHP |
+| **[Telegram-Bot](https://github.com/EORBAH/Telegram-Bot)** | Framework PHP pour intereagir avec l'api bot de telegram | PHP |
+| **[Javascript tutoral](https://github.com/EORBAH/JavaScript-Tutorial)** | Apprendre les bases du javascript | javascript |
+| **[30 Day](https://github.com/EORBAH/30-Days-of-Python-on-Termux)** | Apprendre python sut Termux sans ordinateur | Python |
 ---
 
 ## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%230e75b6" width="28" height="28" align="center" /> Statistiques GitHub
