@@ -65,6 +65,10 @@ Développeur logiciel basé en **Guinée 🇬🇳**, je maîtrise le **fullstack
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Makefile](https://img.shields.io/badge/Makefile-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Bases de données
+![Mongo Db](https://img.shields.io/badge/MongoDb-FCC624?style=for-the-badge&logo=linux&logoColor=green)
+![Mysql](https://img.shields.io/badge/Mysql-FCC624?style=for-the-badge&logo=linux&logoColor=blue)
 ---
 
 ## <img src="https://api.iconify.design/lucide/target.svg?color=%230e75b6" width="28" height="28" align="center" /> Domaines d'expertise
