@@ -64,11 +64,11 @@ Développeur logiciel basé en **Guinée 🇬🇳**, je maîtrise le **fullstack
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Makefile](https://img.shields.io/badge/Makefile-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Makefile](https://img.shields.io/badge/Makefile-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
 ### Bases de données
-![Mongo Db](https://img.shields.io/badge/MongoDb-FCC624?style=for-the-badge&logo=linux&logoColor=green)
-![Mysql](https://img.shields.io/badge/Mysql-FCC624?style=for-the-badge&logo=linux&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 
 ## <img src="https://api.iconify.design/lucide/target.svg?color=%230e75b6" width="28" height="28" align="center" /> Domaines d'expertise
