@@ -9,7 +9,7 @@
 
 </div>
 
-### Fullstack Software Developer · Framework Creator · DevOps
+### Software enginner
 
 *I build complete software and platforms: from low-level to the cloud.*
 
