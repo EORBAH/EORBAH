@@ -38,7 +38,7 @@ Software developer based in **Guinea 🇬🇳**, I master the **fullstack** and 
 
 ## <img src="https://api.iconify.design/lucide/hammer.svg?color=%230e75b6" width="28" height="28" align="center" /> Tech Stack
 
-### Languages
+### Languages or Languages learning (Rust, Typescript)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
